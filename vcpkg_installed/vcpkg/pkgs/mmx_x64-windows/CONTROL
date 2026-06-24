@@ -1,0 +1,6 @@
+Package: mmx
+Version: 2025-03-19
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 361fdefd8484e771b5f8835dd53ac43624da1cd8930ce34ce358fe9fa49ea2a1
+Description: Single header libraries for C/C++

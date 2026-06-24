@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GameOfLife/GameOfLife.vcxproj" Id="020cb7bf-867e-4d23-a8ec-69b304d8a56d" />
+</Solution>
